@@ -28,6 +28,24 @@
                 android:layout_margin="10dp"
                 tools:srcCompat="@tools:sample/avatars" />
 
+            <com.chaos.view.PinView
+                style="@style/PinWidget.PinView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                app:itemHeight="40dp"
+                app:itemWidth="30dp"
+                app:itemCount="10"
+                app:itemSpacing="3dp"
+                app:itemRadius="13dp"
+                app:hideLineWhenFilled="true"
+                android:cursorVisible="true"
+                android:inputType="number"
+                android:itemBackground="@drawable/grad_1"
+                android:minHeight="48dp"
+                android:textColor="#9E9E9E"
+                android:textStyle="bold|italic"
+                />
             <Button
                 android:id="@+id/LoginButton"
                 android:layout_width="match_parent"
