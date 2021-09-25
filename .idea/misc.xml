@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/drawable/button_.xml" value="0.290625" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/drawable/grad_1.xml" value="0.290625" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/activity_become_amember.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/activity_details.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/activity_home_screen.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/activity_login.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/activity_register.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/activity_splash_screen.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/activity_view_pager.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/grad_1.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aryan Sharma/ASTHA/app/src/main/res/layout/page.xml" value="0.2463768115942029" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

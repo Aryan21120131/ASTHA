@@ -10,7 +10,28 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ASTHA">
         <activity
+            android:name=".Activities.BecomeAMemberActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.DetailsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.HomeScreenActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.LoginActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.SplashScreenActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.ViewPagerActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
